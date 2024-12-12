@@ -33,7 +33,7 @@ dev_dependencies:
   mockito: ^5.4.3
   package_info_plus: ^8.0.2
   reown_appkit:
-    git: https://github.com/root37labs/reown_appkit.git
+    git: https://github.com/root37labs/reown_appkit
 #    path: ../reown_appkit/
 
 platforms:
